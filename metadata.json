@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Lens - AI Image Editor",
+  "description": "A powerful image editing tool powered by Gemini 2.5 Flash Image. Upload an image and use natural language to transform, edit, or reimagine it.",
+  "requestFramePermissions": []
+}
